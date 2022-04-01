@@ -1,0 +1,142 @@
+*{
+    margin: 0%;
+    padding: 0%;
+/* text-transform: uppercase; *//* font-size: 16px; */}
+header{
+    
+overflow: hidden;/* margin: 30px 5%; *//* width: 90%; *//* margin: auto; */margin: 30 px 5%; width: 90%;margin: auto; margin-top: 30px;}
+.logo{
+
+width: 20%; float: left;}
+
+.logo img{
+
+}
+
+nav{
+
+width: 30;float: right;}
+nav ul{
+    
+list-style: none;overflow: hidden;float: right;/* text-decoration: none; */}
+nav ul li{
+    
+float: left;/* margin-left: 50px; */text-decoration: none;text-transform: uppercase;margin-left: 50px;/* text-decoration: none; */}
+nav ul li a{ 
+    
+text-decoration: none;/* color: #ffffff; */}
+
+.banner {
+
+width: 90%; margin: auto; margin-top: 30px;}
+.banner img {
+    
+width: 100%;}
+
+.photodairy 
+{ width: 80%; margin: auto;
+overflow: hidden;}
+
+.photodairy h3 {
+    
+text-transform: uppercase; font-size: 16px; font-weight: 400; margin-top: 20px;} 
+
+.photodairy h1{
+    
+margin-bottom: 20px; text-transform: uppercase;}
+
+.photodairy p{
+    
+}
+
+.lifestyle{
+
+width: 80%;margin: 50px;overflow: hidden;margin: auto;}
+.lifestyle_one{
+
+width: 47%;float: left;}
+.lifestyle_one img{
+
+width: 100%;}
+.lifestyle_one h3{
+    
+}
+.lifestyle_one h1{
+    
+}
+.lifestyle_one p{
+    
+}
+.lifestyle_two{
+
+width: 47%;float: right;}
+
+.lifestyle_two img{
+
+width: 100%;}
+.lifestyle_two h3{
+    
+text-transform: uppercase;}
+.lifestyle_two h1{
+    
+}
+.lifestyle_two p{
+    
+}
+
+.newsletter{
+
+background-color: #f0f0f0;padding: 80px;}
+.singup{
+
+width: 27%;margin: auto;}
+.singup h1{
+    
+color: #333333;font-size: 15px;font-weight: 400;margin-bottom: 70px;}
+.singup input{
+    
+width: 100%;border: none;background: transparent;border-bottom: 1px solid #333333;}
+.singup input::placeholder{
+    color: #333333;
+}
+.singup input:focus{
+    border: none;
+    outline: none;
+}
+.lodemore{
+
+padding: 100px 0;text-align: center;}
+.lodemore button{
+    
+padding: 20px 30px;background-color: transparent;border: 1px solid;font-size: 18px;cursor: pointer;}
+
+footer{
+
+padding: 30px;background: #f0f0f0;}
+.footer_content{
+
+width: 80%;margin: auto;background-color: #f0f0f0;overflow: hidden;}
+.terms{
+
+float: left;width: 30px;}
+.terms ul{
+
+list-style: none;}
+.terms ul li{
+
+float: left;margin-left: 20px;}
+.terms ul li a{
+
+text-decoration: none;text-transform: capitalize;} 
+.social_icons{
+
+float: right;width: 30px;}
+.social_icons ul{
+    
+list-style: none;}
+.social_icons ul li{
+    
+float: left;margin-left: 15px;}
+.social_icons ul li a{
+    
+text-decoration: none;margin-right: 50px;}
